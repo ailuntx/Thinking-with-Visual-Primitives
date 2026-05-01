@@ -44,6 +44,18 @@
 
 </p>
 
+> [!IMPORTANT]
+> This repository was originally obtained from a source repository previously associated with `charlesCXK`, which is currently unavailable.
+>
+> The original upstream/fork relationship is no longer reliably preserved. This repository should be treated as a community mirror/archive rather than an authoritative source.
+>
+> There is currently no known replacement official repository for this project. Please follow future updates or any re-release from the following sources:
+>
+> - the `charlesCXK` profile: https://github.com/charlesCXK
+> - the DeepSeek organization: https://github.com/deepseek-ai
+>
+> Content in this repository may lag behind, differ from, or no longer reflect the original upstream state.
+
 
 ## News
 
