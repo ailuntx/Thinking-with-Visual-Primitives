@@ -24,6 +24,11 @@
 
 </div>
 
+<p align="center">
+  <a href="./README.md"><b>English</b></a> |
+  <a href="./README_zh.md"><b>简体中文</b></a>
+</p>
+
 
 
 <div align="center">
@@ -53,8 +58,6 @@
 >
 > - the `charlesCXK` profile: https://github.com/charlesCXK
 > - the DeepSeek organization: https://github.com/deepseek-ai
->
-> Content in this repository may lag behind, differ from, or no longer reflect the original upstream state.
 
 
 ## News
