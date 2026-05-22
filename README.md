@@ -62,6 +62,8 @@
 
 ## News
 
+**2026.05.22**: As of May 22, 2026, the original source repository and the previously referenced DeepSeek organization repository for `Thinking-with-Visual-Primitives` are unavailable. No official replacement repository or re-release announcement has been found. Please follow the `charlesCXK` profile and the DeepSeek organization for future updates.
+
 **2026.04.30**: We have released the [technical report](./Thinking_with_Visual_Primitives.pdf) detailing our approach. In the near future, we plan to make the in-house benchmarks and a subset of our cold-start data publicly available. The model weights will be integrated into our foundation model and released in the future.
 
 
