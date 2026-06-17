@@ -61,6 +61,8 @@
 
 ## 最新动态
 
+**2026.06.17**：截至 2026 年 6 月 17 日，`charlesCXK/Thinking-with-Visual-Primitives` 与 `deepseek-ai/Thinking-with-Visual-Primitives` 仍均返回 404。公开搜索结果显示目前主要是社区镜像和第三方讨论，尚未发现官方替代仓库或重新发布公告。
+
 **2026.05.22**：截至 2026 年 5 月 22 日，原始来源仓库以及此前提到的 DeepSeek 组织下同名仓库均暂不可访问；目前未发现官方替代仓库或重新发布公告。后续请关注 `charlesCXK` 主页和 DeepSeek 组织动态。
 
 **2026.04.30**：该项目发布了介绍其方法的[技术报告](./Thinking_with_Visual_Primitives.pdf)。后续计划公开内部基准测试，以及部分冷启动数据。模型权重未来将整合进其基础模型，并在之后发布。
